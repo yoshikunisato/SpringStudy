@@ -1,6 +1,7 @@
+/home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/web/LoginController.java
 /home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/repository/UsersRepository.java
 /home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/validation/GroupOrder.java
 /home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/model/Users.java
-/home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/LoginForm.java
+/home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/form/LoginForm.java
 /home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/validation/GroupOrder2.java
 /home/sato/workspaceSpring/SpringStudy/src/main/java/com/lab/study/validation/GroupOrder1.java
